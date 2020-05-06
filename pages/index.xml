@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Green Handbook</title>
+    <link>http://greenbook.ir/pages/</link>
+    <description>Recent content in Pages on Green Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language>
+    
+	<atom:link href="http://greenbook.ir/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://greenbook.ir/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://greenbook.ir/pages/about/</guid>
+      <description>about.md</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://greenbook.ir/pages/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://greenbook.ir/pages/donate/</guid>
+      <description>donate.md</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://greenbook.ir/pages/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://greenbook.ir/pages/download/</guid>
+      <description>download.md</description>
+    </item>
+    
+  </channel>
+</rss>
