@@ -3,6 +3,7 @@ languageCode = "fa-ir"
 DefaultContentLanguage = "fa"
 title = "Green Handbook"
 theme = "book"
+enableGitInfo = false
 
 [languages]
   [languages.fa]
@@ -12,3 +13,17 @@ theme = "book"
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
   BookMenuBundle = '/menu'
+
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = 'https://github.com/kharazi/greenbook'
+
+  # Enable 'Edit this page' links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # Path must point to 'content' directory of repo.
+  BookEditPath = 'edit/master/content'
+  
+  # (Optional, default true) Enables search function with flexsearch,
+  # Index is built on fly, therefore it might slowdown your website.
+  # Configuration for indexing can be adjusted in i18n folder per language.
+  BookSearch = false
