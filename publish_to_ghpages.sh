@@ -21,6 +21,9 @@ rm -rf public/*
 echo "Generating site"
 hugo --minify
 
+echo "Copy CNAME file"
+cp CNAME public/CNAME
+
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
 
