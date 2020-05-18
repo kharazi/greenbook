@@ -1,7 +1,7 @@
-baseURL = "http://greenbook.ir"
+baseURL = "http://readgreenbook.ir"
 languageCode = "fa-ir"
 DefaultContentLanguage = "fa"
-title = "Green Handbook"
+title = "کتاب سبز"
 theme = "book"
 enableGitInfo = false
 

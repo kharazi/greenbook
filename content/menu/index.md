@@ -1,6 +1,9 @@
 ---
 headless: true
 ---
+کتابچه راهنمای پرورش گیاهان
+<br />
+
 - [**مقدمه**]({{< relref "/chapters/introduction" >}})
 - **موارد عمومی**
   - [خاک‌ها]({{< relref "/chapters/general/soil" >}})
