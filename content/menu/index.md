@@ -2,8 +2,8 @@
 headless: true
 ---
 کتابچه راهنمای پرورش گیاهان
-<br />
 
+- **. . .** 
 - [**مقدمه**]({{< relref "/chapters/introduction" >}})
 - **موارد عمومی**
   - [خاک‌ها]({{< relref "/chapters/general/soil" >}})
@@ -16,12 +16,12 @@ headless: true
 - [**سبزی‌ها و صیفی‌جات**]({{< relref "/chapters/vegetables" >}})
   - [تربچه]({{< relref "/chapters/vegetables" >}})
 - **گل‌ها**
-
-<br />
-
-- **لینک‌ها**
+- **. . .**
 - [درباره]({{< relref "/pages/about" >}})
 - [دانلود کتاب]({{< relref "/pages/download" >}})
 - [حمایت]({{< relref "/pages/donate" >}})
+- [مشارکت و ویرایش](https://gihtub.com/kharazi/greenbook)
+- **. . .**
 
-<br />
+هرگونه تکثیر با ذکر نام و لینک مجاز است.
+
