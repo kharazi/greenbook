@@ -176,12 +176,6 @@ Light Expanded Clay Aggregate
 
 ## خاک‌های دیگر
 
-{{< columns >}} <!-- begin columns block -->
-![خاک لیکا](/media/soil/mix-one.jpg)
-<---> <!-- magic sparator, between columns -->
-![خاک لیکا](/media/soil/mix-two.jpg)
-{{< /columns >}}
-
 
 
 تا اینجا تقریبا همه خاک‌هایی که به شکل رایج فروخته می‌شوند را می‌شناسیم.
@@ -209,6 +203,15 @@ Light Expanded Clay Aggregate
 - خاک برگ + شن یا خاک معمولی الک شده + پرلیت  (با نسبت مساوی)
 
 این خاک با چندین دستور تهیه دیگر هم ترکیب می‌شود.
+
+### خاک بستر رشد/خاک‌سبزی کاری/خاک  گلدان 
+
+{{< columns >}} <!-- begin columns block -->
+![خاک لیکا](/media/soil/mix-one.jpg)
+<---> <!-- magic sparator, between columns -->
+![خاک لیکا](/media/soil/mix-two.jpg)
+{{< /columns >}}
+
 
 ## آخر چه خاکی...؟
 

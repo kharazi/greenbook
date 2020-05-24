@@ -1,5 +1,5 @@
 ---
-title: درباره
+title: روی جلد
 weight: 1
 ---
 
@@ -7,4 +7,4 @@ weight: 1
 
 پس از تکمیل کتاب می‌توانید آن را در فرمت PDF و ePUB به صورت یک‌جا دانلود کنید.
 
-{{< button href="https://github.com/kharazi/greenbook/releases" >}}دانلود{{< /button >}}
+
