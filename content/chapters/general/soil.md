@@ -163,6 +163,9 @@ PH ایده‌آلی دارد
 
 
 ## لیکا
+
+![خاک لیکا](/media/soil/lica.jpg)
+
 لیکا مخفف
 Light Expanded Clay Aggregate
 (دانه رس منبسط سبک)
@@ -172,6 +175,15 @@ Light Expanded Clay Aggregate
 
 
 ## خاک‌های دیگر
+
+{{< columns >}} <!-- begin columns block -->
+![خاک لیکا](/media/soil/mix-one.jpg)
+<---> <!-- magic sparator, between columns -->
+![خاک لیکا](/media/soil/mix-two.jpg)
+{{< /columns >}}
+
+
+
 تا اینجا تقریبا همه خاک‌هایی که به شکل رایج فروخته می‌شوند را می‌شناسیم.
 خاک‌های دیگ دیگعلاوه بر این خاک‌ها، خاک‌های دیگری هم هستند که به ذات چیز
 خاصی نیستند و عملا از ترکیب  خاک‌هایی که در بالا دیدیم درست می‌شوند.
