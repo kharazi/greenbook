@@ -13,7 +13,7 @@ headless: true
   - [آفت کشی]({{< relref "/chapters/general/pest-control" >}})
   - [بذر]({{< relref "/chapters/general/seed" >}})
   - [ابزار و وسایل]({{< relref "/chapters/general/equipment" >}})
-  - آبیاری گیاه هنگام سفر
+  - [آبیاری حین سفر]({{< relref "/chapters/general/on-the-trip" >}})
 - [**سبزی‌ها و صیفی‌جات**]({{< relref "/chapters/vegetables" >}})
   - [تربچه]({{< relref "/chapters/vegetables" >}})
 - **گل‌ها**
